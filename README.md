@@ -3,9 +3,6 @@
 - 🔭 I’m currently working as Front-end on collaborative projects
 - 🌱 I’m currently learning CSS and React.js
 - 👯 I’m looking to collaborate on new projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ele/dele / he/him
 - ⚡ Fun fact: I play bass!
 
@@ -23,5 +20,3 @@
 </div>
 
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
-https://tenor.com/pt-BR/view/cat-laptop-fast-homework-apple-gif-5315897
