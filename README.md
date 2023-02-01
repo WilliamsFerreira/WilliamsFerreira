@@ -1,9 +1,9 @@
 ### Olá/ Hi there! My name is Williams Ferreira!👋
 
-- 🔭 I’m currently working as Front-end on collaborative projects
-- 🌱 I’m currently learning CSS and React.js
+- 🔭 I’m currently working as Front-end on collaborative projects.
+- 🌱 I’m currently learning CSS and React.js.
 - 👯 I’m looking to collaborate on new projects.
-- 😄 Pronouns: ele/dele / he/him
+- 😄 Pronouns: ele/dele / he/him.
 - ⚡ Fun fact: I play bass!
 
 ## Contatos:
