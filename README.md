@@ -1,4 +1,4 @@
-### Olá/ Hi there! My name is Williams Ferreira!👋
+### Hi there! My name is Williams Ferreira!👋
 
 - 🔭 I’m currently working as Front-end on collaborative projects.
 - 🌱 I’m currently learning CSS and React.js.
