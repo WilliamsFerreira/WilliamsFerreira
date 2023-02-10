@@ -20,7 +20,7 @@
 </div>
 
   ## Ferramentas e Tecnologias que utilizo:
-<img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png"width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width="40" height="40"/>
 <img src="https://icon-library.com/images/css-3-icon/css-3-icon-4.jpg" width="40" height="40"/>
 
   
