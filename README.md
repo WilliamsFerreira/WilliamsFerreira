@@ -20,8 +20,8 @@
 </div>
 
   ## Ferramentas e Tecnologias que utilizo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width="40" height="40"/>
-<img src="https://iconscout.com/icon/html5-41"width="40" height="40"/>
+<img src="https://icon-library.com/images/css-3-icon/css-3-icon-5.jpg"width="40" height="40"/>
+
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   
