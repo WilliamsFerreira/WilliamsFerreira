@@ -19,9 +19,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamsFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  ## Ferramentas e Tecnologias:
+  ## Ferramentas e Tecnologias que utilizo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
-  ## Ferramentas e Tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"width="40" height="40"/> 
           
